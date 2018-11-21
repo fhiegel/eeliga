@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #eeeeee, #b0b0f8)
+---?color=linear-gradient(to right, #eeeeee, #ffffff)
 @title[Introduction]
 
 # La Rétro
